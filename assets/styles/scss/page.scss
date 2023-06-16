@@ -114,6 +114,8 @@
 
 .page_content_inner_content_item_imgItem {
   margin-top: 20px;
+
+  
 }
 
 .page_content_inner_content_item_images {
@@ -153,6 +155,12 @@
   margin-top: 10px;
 
   border-radius: 10px;
+
+  &.people {
+    height: 300px;
+    float: left;
+    margin-right: 10px;
+  }
 }
 
 /* content header */

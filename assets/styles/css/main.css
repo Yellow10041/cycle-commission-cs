@@ -382,6 +382,11 @@
   margin-top: 10px;
   border-radius: 10px;
 }
+.page_content_inner_content_item_img-v.people {
+  height: 300px;
+  float: left;
+  margin-right: 10px;
+}
 
 /* content header */
 .page_content_header {
